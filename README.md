@@ -10,11 +10,9 @@ CS Undergrad at Manipal Institute of Technology, Bengaluru, focused on **systems
 ## GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=vishalshetagar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api?username=vishalshetagar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalshetagar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ![](https://streak-stats.demolab.com?user=vishalshetagar&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalshetagar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
